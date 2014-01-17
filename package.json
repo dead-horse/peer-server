@@ -1,0 +1,30 @@
+{
+  "name": "resonate-peer-server",
+  "version": "0.0.0",
+  "description": "peer server for resonate",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dead-horse/peer-server.git"
+  },
+  "keywords": [
+    "peerjs",
+    "server",
+    "resonate"
+  ],
+  "author": "dead_horse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dead-horse/peer-server/issues"
+  },
+  "homepage": "https://github.com/dead-horse/peer-server",
+  "dependencies": {
+    "peer": "0.2.1"
+  },
+  "devDependencies": {
+
+  }
+}
