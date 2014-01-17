@@ -15,7 +15,7 @@
     "server",
     "resonate"
   ],
-  "author": "dead_horse",
+  "author": "dead_horse <dead_horse@qq.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dead-horse/peer-server/issues"
